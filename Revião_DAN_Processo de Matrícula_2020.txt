@@ -1,0 +1,77 @@
+Modificar os dados da Capa do DAN
+Inlcuir datas das revisões
+Incluir valores
+Opções de Pagamento
+Registro dos dados do cliente
+Parte 2.(...)
+Sistema(Substituir por ficha)
+Incluir a aba responsável no fluxo
+Secretaria-> verificar documentação
+gerar contrato, verificar vagas, histórico,
+apontamentos do alunos, notas, faltas,
+
+Ampliar o processo da secretaria
+Objetivo Geral: Gestão de matrícula, 
+e dos processos da secretaria.
+
+Separar entra objetivos de
+Entrada, Processamento e Saída
+
+Cadastro dos alunos
+
+Emtrada- Cadastros
+Processamento- Registros
+Saída- Relatórios
+
+Especificar mais as áreas de processo
+do DAN
+
+ Entrada
+O processo proposto tem início com o contato do responsável que quer conhecer e matricular seu filho na Pedacinho do Céu. A secretaria verifica a quantidade de vagas
+ disponíveis na respectiva série e turno nos quais o responsável tem interesse. Caso não houver vagas, a secretaria coloca o nome do aluno na lista de espera, informa
+ ao responsável, e o processo é encerrado. 
+  Processamento
+  Havendo vaga, a secretaria solicita as documentações necessárias. Se houver pendências de documentação, a secretaria informa ao responsável sobre uma data limite 
+para a entrega dos mesmos, se não, a documentação é enviada à Coordenação para a elaboração do contrato e da ficha de matrícula.
+Após a confirmação dos dados do alunos, a secretaria fornece ao responsável, a ficha de matrícula e o contrato para serem assinados. 
+Caso ocorra  inconformidade sobre o contrato, este poderá ser reformulado ou encerrado. 
+    Posteriormente à aceitação do contrato e ao devido preenchimento da ficha de matrícula, a secretaria confirma os dados com a coordenação e efetua o registro do 
+novo aluno. Na hipótese de pendência de dados, o responsável será informado para apresentá-los à escola. 
+Seguidamente ao registro do aluno, o responsável é encaminhado ao financeiro para efetuar o pagamento da matrícula. 
+  O financeiro realiza a pesquisa de adimplência e, na condição de restrição no nome, é informado à secretaria a exigência de um novo Responsável Financeiro apto,
+ se não houver, o processo será encerrado.
+Saída
+   A secretaria atesta a turma e o turno do aluno presentes no contrato, efetiva os dados e encaminha a validação ao financeiro o qual informa à Direção sobre a aprovação do cadastro a fim de que o novo aluno seja admitido . 
+ Fundamentando-se nos dados cadastrados, o sistema emitirá um relatório apresentando a quantidade de alunos por turma/turno, bem como o número de vagas disponíveis.  
+
+
+Relatório de Alunos por idade
+|-> Cadastro de alunos em turma por idade
+|-> Registro das idades dos alunos
+
+Dados incompletos
+|->Não é possivel um pré-cadastro
+|->Não há registro do aluno
+
+Controle de Pagamentos
+|-> Cadastro dos boletos pagos
+|-> Registro dos pagamentos
+|-> Relatório de pagamentos
+
+Controlar a quantidade de vagas
+|-> Cadastro do aluno na turma e turno
+|-> Registro de matricula em turma e turno
+|-> Relatório de tumas ocupadas por 
+turno e de vagas disponíveis
+
+matricula -> documentação-> financeiro
+
+Controlar a quantidade de alunos matriculados por turma e turno
+ Realizar um cadastro quando faltarem documentos
+Controle de Pagamentos
+Registro dos alunos matriculados por turma e turno de acordo com a idade
+Registros da quantidade de boletos gerados que não foram pagos no prazo
+Registro dos alunos com dados incompletos informando quais dados necessitam de complementação
+Relatório de alunos matriculados por turma e turno
+Relatório de alunos com dados incompletos
+Relatório de inadimplência
